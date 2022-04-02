@@ -1,0 +1,11 @@
+#-r requirements_dev.txt
+
+mypy==0.782
+coverage==5.2
+flake8==3.8.3
+black==19.10b0
+pep257==0.7.0
+flake8-docstrings==1.5.0
+SQLAlchemy==1.4.32
+sqlalchemy-orm==1.2.2
+Flask==2.1.0
